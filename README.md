@@ -2,4 +2,4 @@
 PERN APP Tutorial
 
 
-https://youtu.be/ldYcgPKEZC8?t=633
+https://youtu.be/ldYcgPKEZC8?t=2986
