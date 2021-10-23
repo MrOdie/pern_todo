@@ -14,7 +14,8 @@ const InputTodo = () => {
                 body: JSON.stringify(body)
             });
 
-            console.log(response);
+            window.location = '/';
+            setDescription('');
         } catch (error) {
             console.error(error.message);
         }
@@ -32,8 +33,6 @@ const InputTodo = () => {
                 />
                 <button className="btn btn-success">Add</button>
             </form>
-            <p>{description}</p>
-
         </>
     );
 };
